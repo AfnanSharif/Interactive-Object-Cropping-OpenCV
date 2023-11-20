@@ -1,0 +1,2 @@
+mainMenu,testimage.jpeg,8,83,229,224
+fieldSetup,testimage.jpeg,240,60,494,287
